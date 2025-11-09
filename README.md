@@ -39,7 +39,7 @@ For the Figma design, I used the icons and components available in Figma, but th
 
 Overall, the design seeks to strike a balance between clarity, professionalism, and pleasing aesthetics, so that the information is easy to read and users can focus on what is most important.
 
-Note: To create the website, I used Bootstrap to facilitate responsive design and components such as icons. Without Bootstrap, the development would have taken more time. Since I already have experience with Bootstrap, for me it was much easier to use it than to build everything from scratch.
+Note 1: To create the website, I used Bootstrap to facilitate responsive design and components such as icons. Without Bootstrap, the development would have taken more time. Since I already have experience with Bootstrap, for me it was much easier to use it than to build everything from scratch.
 
 Note 2: To create this README I used tools to translate text like ([deepl.com](https://www.deepl.com/es/translator)) and tools to verify the syntax and professional quality like ([chatgpt.com](https://chatgpt.com/)).
 
